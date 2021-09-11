@@ -21,7 +21,7 @@ if __name__ == '__main__':
     from FEDEBOMUserMetrics import user_metrics
     
     
-    presentation_file = 'Eng BOM Prod Sup And CTQ Review 08-13-2021.pptx'    
+    presentation_file =  'file_name'    
      
     update_slide(presentation_file)   #slide2
     bom_usage(presentation_file)      #slide4
